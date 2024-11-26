@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+      "module": "commonjs",
+      "target": "es6",
+      "strict": true,
+      "baseUrl": "./",
+      "experimentalDecorators": true,
+      "emitDecoratorMetadata": true,
+      "outDir": "./dist",
+      "moduleResolution": "node",
+      "jsx": "react"
+    },
+    "include": ["src/**/*"]
+  }
+  
